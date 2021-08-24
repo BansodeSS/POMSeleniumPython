@@ -3,3 +3,119 @@ Invalid port. Exiting...
 Invalid port. Exiting...
 Invalid port. Exiting...
 Invalid port. Exiting...
+1629784951915	geckodriver	INFO	Listening on 127.0.0.1:51311
+1629784955043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofileQtaKxU"
+1629784963579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofileQtaKxU\\search.json.mozlz4", (void 0)))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629784986244	Marionette	INFO	Listening on port 51319
+1629784986939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629784988534	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1629784988671	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1629784988813	Marionette	INFO	Stopped listening on port 51319
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1629785082289	geckodriver	INFO	Listening on 127.0.0.1:52405
+1629785085349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofileeXe7Sp"
+1629785085983	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofileeXe7Sp\\search.json.mozlz4", (void 0)))
+1629785091053	Marionette	INFO	Listening on port 60342
+1629785091486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629785091734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1629785091879	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1629785092109	Marionette	INFO	Stopped listening on port 60342
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390130,name=PContent::Msg_GetModulesTrust) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1629785244797	geckodriver	INFO	Listening on 127.0.0.1:56224
+1629785247810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofileM2jNYr"
+1629785249228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofileM2jNYr\\search.json.mozlz4", (void 0)))
+1629785253746	Marionette	INFO	Listening on port 56232
+1629785254245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629785286719	Marionette	INFO	Stopped listening on port 56232
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629785374112	geckodriver	INFO	Listening on 127.0.0.1:62961
+1629785377258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofilehgb1WJ"
+1629785378413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofilehgb1WJ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1629785393644	Marionette	INFO	Listening on port 50925
+1629785393788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629785407134	Marionette	INFO	Stopped listening on port 50925
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+1629785775836	geckodriver	INFO	Listening on 127.0.0.1:52887
+1629785778906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofileiGSfX0"
+1629785779459	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofileiGSfX0\\search.json.mozlz4", (void 0)))
+1629785784120	Marionette	INFO	Listening on port 54948
+1629785784320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629785816215	Marionette	INFO	Stopped listening on port 54948
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1629785895094	geckodriver	INFO	Listening on 127.0.0.1:52465
+1629785898129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofileHIQemx"
+1629785898594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofileHIQemx\\search.json.mozlz4", (void 0)))
+1629785903032	Marionette	INFO	Listening on port 52473
+1629785903680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629785935674	Marionette	INFO	Stopped listening on port 52473
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629786106403	geckodriver	INFO	Listening on 127.0.0.1:54650
+1629786109456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SANGFR~1\\AppData\\Local\\Temp\\rust_mozprofilebeunDv"
+1629786110029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sangfroid Solutions\\AppData\\Local\\Temp\\rust_mozprofilebeunDv\\search.json.mozlz4", (void 0)))
+1629786114992	Marionette	INFO	Listening on port 54658
+1629786115349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1629786147061	Marionette	INFO	Stopped listening on port 54658
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
